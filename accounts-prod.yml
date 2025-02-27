@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs"
+  contactDetails:
+    name: "Reine Aishwarya - Product Owner"
+    email: "aishwarya@eazybank.com"
+  onCallSupport:
+    - (777)567-7654
+    - (777)901-0000

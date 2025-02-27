@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Liza Bound - QA Engineer"
+    email: "liza@eazybank.com"
+  onCallSupport:
+    - (123)456-7890
+    - (213)645-0987

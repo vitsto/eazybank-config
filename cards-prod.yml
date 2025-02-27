@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs"
+  contactDetails:
+    name: "Jane Tim - Senior Analytic"
+    email: "jane@eazybank.com"
+  onCallSupport:
+    - (123)456-7890
+    - (213)645-0987

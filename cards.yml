@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards local APIs"
+  contactDetails:
+    name: "David Rew - Developer"
+    email: "david@eazybank.com"
+  onCallSupport:
+    - (123)456-7890
+    - (213)645-0987
