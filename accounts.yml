@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts local APIs webhook"
+  message: "Welcome to EazyBank accounts local APIs webhooks"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
