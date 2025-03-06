@@ -8,4 +8,4 @@ server:
       registerWithEureka: true
       fetchRegister: true
       serviceUrl:
-        defaultZone: http://localhost:8070/eureka
+        defaultZone: "http://localhost:8070/eureka"
